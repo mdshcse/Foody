@@ -18,7 +18,7 @@ ul {
     align-items: center;
     position: sticky;
     width: 100%;
-    min-width: 980px;
+    min-width: 990px;
     justify-content: space-between;
     align-items: center;
     box-shadow: 0px 1px 5px red;
@@ -176,7 +176,7 @@ input:focus + .aux > .button {
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-    padding-top: 60px;
+    padding-top: 70px;
     margin-bottom: 80px;
     justify-content: center;
     gap:10%;
@@ -270,10 +270,10 @@ h2 {
     width: 190px;
     height: 130px;
     position: absolute;
-    top: 20px;
+    top: 28px;
     left: 50%;
     transform: translate(-50%);
-    transition: height .5s ease-in-out, width .5s ease-in-out, margin .5s ease-in-out;
+    transition: height .4s ease-in-out, width .4s ease-in-out;
 
 }
 
@@ -286,7 +286,6 @@ h2 {
 .items:hover img {
     height: 138px;
     width: 198px;
-    margin: -4px;
 }
 
 

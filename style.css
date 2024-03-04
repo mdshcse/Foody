@@ -234,6 +234,7 @@ h2 {
 .all_items {
     display: flex;
     flex-wrap: wrap;
+	justify-content:center;
 	gap: 20px;
 }
 

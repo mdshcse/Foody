@@ -435,7 +435,7 @@ footer {
 }
 
 .search:focus {
-	width: 200px; /* Bar width+1px */
+	width: 220px; /* Bar width+1px */
 	padding: 0 16px 0 0;
     border: 4px solid #ee1a74;
 }

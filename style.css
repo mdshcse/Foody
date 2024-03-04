@@ -466,3 +466,9 @@ footer {
 	transition-duration: 0.4s;
     cursor: pointer;
 }
+input:focus + .aux {
+	background-color:#ee1a74;
+}
+input:focus + .aux > .button {
+	color: white;
+}
